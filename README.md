@@ -3,12 +3,19 @@ python test
 how to use:
 
 download the py
+
 download tnoodle
+
 generate scramble from tnoodle
+
 put the py and the scramble in the same folder
+
 go to terminal and get into the ScrambleCombinator.py path
+
 run py ScrambleCombinator.py
+
 put the event type that you choose when generating in tnoodle
+
 your scramble already combined in your path/combined/Combined.txt
 
 current available event:
